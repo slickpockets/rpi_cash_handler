@@ -1,0 +1,15 @@
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Note Read 3 
+Credit 3 
+INCRBY total 20
+Stacked
+LPUSH stacked 
+INCRBY stacked:total 20

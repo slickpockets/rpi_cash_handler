@@ -1,0 +1,653 @@
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Note Read 3 
+Credit 3 
+LPUSH  
+INCRBY :total 20
+INCRBY total 20
+Stored
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Note Read 3 
+Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Out-Of-Range value: 0Credit 3 
+INCRBY total 20
+Out-Of-Range value: 0Out-Of-Range value: 0Stacked
+LPUSH  
+INCRBY :total 20
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Note Read 3 
+Credit 3 
+INCRBY total 20
+Stacked
+LPUSH  
+INCRBY :total 20
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Note Read 3 
+Credit 3 
+INCRBY total 20
+Stacked
+LPUSH stacked 
+INCRBY stacked:total 20
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Note Read 2 
+Credit 2 
+INCRBY total 10
+Stacked
+LPUSH stacked 
+INCRBY stacked:total 
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Cashbox Removed
+DISABLED
+Cashbox Replaced
+Note Read 3 
+Credit 3 
+INCRBY total 20
+Stacked
+LPUSH stacked 20
+INCRBY stacked:total 20
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+Note Read 2 
+Credit 2 
+INCRBY total 10
+Stored
+LPUSH stored 20
+INCRBY stored:total 20
+hannel 5: 100 AUD
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Note Read 3 
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Credit 3 
+INCRBY total 20
+retrievd value is: 0
+retrievd value is: 0
+Stored
+LPUSH stored 
+INCRBY stored:total 
+^C
+
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Note Read 3 
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Credit 3 
+INCRBY total 20
+retrievd value is: 0
+retrievd value is: 0
+Stored
+LPUSH stored 
+INCRBY stored:total 
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Note Read 3 
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Credit 3 
+INCRBY total 20
+retrievd value is: 0
+retrievd value is: 0
+Stacked
+LPUSH stacked 20
+INCRBY stacked:total 20
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 2
+Note Read 2 
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 2
+Credit 2 
+INCRBY total 10
+retrievd value is: 0
+retrievd value is: 0
+Stored
+LPUSH stored 10
+INCRBY stored:total 10
+Validator Found
+Encryption Setup
+Firmware: 0531
+Channels:
+channel 1: 5 AUD
+channel 2: 10 AUD
+channel 3: 20 AUD
+channel 4: 50 AUD
+channel 5: 100 AUD
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 2
+Note Read 2 
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 2
+Credit 2 
+INCRBY total 10
+retrievd value is: 0
+retrievd value is: 0
+Stacked
+LPUSH stacked 10
+INCRBY stacked:total 10
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Note Read 3 
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 0
+retrievd value is: 3
+Credit 3 
+INCRBY total 20
+retrievd value is: 0
+retrievd value is: 0
+Stacked
+LPUSH stacked 20
+INCRBY stacked:total 20
