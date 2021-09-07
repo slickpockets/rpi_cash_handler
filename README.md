@@ -1,5 +1,6 @@
-##
-raspberrypi compiled cash recycler code
+### Cash recycler (Innovative Technology nv200 + smart payout) ###
+## Works with redis to store denomination information in an accessable and friendly manner
+
 
 gcc *.c files and static link to hirdis and lib 
 
