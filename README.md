@@ -1,6 +1,9 @@
 ### Cash recycler (Innovative Technology nv200 + smart payout) ###
 ## Works with redis to store denomination information in an accessable and friendly manner
 
+payout - executable that wil payout from the cash recycler
+route - route cash to cash recycler or cash box
+command - performs activation/deactivation of the cash recycler and other sundrys
 
 gcc *.c files and static link to hirdis and lib 
 
